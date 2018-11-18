@@ -1,8 +1,8 @@
 ---
 layout: product
-title: space-eye
+title: Space eye
 description_markdown: So, this theme adds more animations. It's changed font... and backround image... and server options dialogue window... and user tab window... and status dialogue window...
-author: IpyZ#0639
+author: IpyZ
 github: 'https://github.com/IpyZ'
 images:
   - name: space-eye Preview
