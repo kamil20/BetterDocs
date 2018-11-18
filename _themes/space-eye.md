@@ -1,9 +1,9 @@
 ---
 title: {space-eye} #*
 author: {IpyZ#0639} #*
-github: https://github.com/
+github: https://github.com/IpyZ
 description_markdown: >- #* Markdown is allowed
-  This is my first theme but it's very advanced (like me)
+  So, this theme adds more animations. It's changed font... and backround image... and server options dialogue window... and user tab window... and status dialogue window...
 download: https://github.com/IpyZ/discord-theme-space-eye-/blob/master/space-eye.theme.css #* Github isn't required but if it isn't used then further inspection will happen
 support: # A link to allow people to get support or give feedback for the theme
 demo: https://raw.githubusercontent.com/IpyZ/discord-theme-space-eye-/master/space-eye.theme.css # The demo needs to be a direct link to the theme's file. Rawgit is recommended
