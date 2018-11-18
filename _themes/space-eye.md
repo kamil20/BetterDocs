@@ -5,7 +5,7 @@ description_markdown: So, this theme adds more animations. It's changed font... 
 author: IpyZ#0639
 github: 'https://github.com/IpyZ'
 images:
-  - name: 'space-eye' Preview
+  - name: space-eye Preview
     image: https://i.imgur.com/GxXKfQK.png
 download: 'https://github.com/IpyZ/discord-theme-space-eye-/blob/master/space-eye.theme.css'
 auto: true
